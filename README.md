@@ -1,5 +1,5 @@
 👋 Hi, I’m @thuanisc  
-💻 I'm a Systems Information student and a tech enthusiast with a lifelong curiosity for how things work!  
+💻 I'm a brazilian Information Systems student and a tech enthusiast with a lifelong curiosity for how things work!  
 
 🌱 I’m currently learning:  
 • Python, JavaScript, HTML, CSS, SQL  
